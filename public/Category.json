@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 1,
+        "name" : "Graphic & Multimedia",
+        "icon" : "/src/assets/1.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Web & Software",
+        "icon" : "/src/assets/2.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Digital Marketing",
+        "icon" : "/src/assets/3.png"
+    },
+    {
+        "id" : 4,
+        "name" : "3D Animation & Visualization",
+        "icon" : "/src/assets/4.png"
+    },
+    {
+        "id" : 5,
+        "name" : "Film & Media",
+        "icon" : "/src/assets/5.png"
+    },
+    {
+        "id" : 6,
+        "name" : "English Language",
+        "icon" : "/src/assets/6.png"
+    },
+    {
+        "id" : 7,
+        "name" : "1 Year Diploma Programs",
+        "icon" : "/src/assets/7.png"
+    },
+    {
+        "id" : 8,
+        "name" : "Cloud Computing",
+        "icon" : "/src/assets/8.png"
+    },
+    {
+        "id" : 9,
+        "name" : "Networking & Cybersecurity",
+        "icon" : "/src/assets/9.png"
+    }
+]
